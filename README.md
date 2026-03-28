@@ -1,28 +1,28 @@
 # 🪙 SURACoin (SURA)
 
-Este projeto foi criado como parte do meu aprendizado em desenvolvimento blockchain, demonstrando:
-- Criação de smart contracts em Solidity
-- Padrão ERC-20 com extensões OpenZeppelin (Burnable + Permit)
-- Deploy em testnet usando Remix IDE
-- Integração com MetaMask
-- Verificação de código-fonte no Sourcify.
+This project was created as part of my blockchain development learning journey, demonstrating:
+- Smart contract creation in Solidity
+- ERC-20 standard with OpenZeppelin extensions (Burnable + Permit)
+- Deployment on testnet using Remix IDE
+- MetaMask integration
+- Source code verification on Sourcify.
 
-## 📋 Contrato
+## 📋 Contract
 
-| Atributo | Valor |
+| Attribute | Value |
 |----------|-------|
-| Nome | SURACoin |
-| Símbolo | SURA |
-| Decimais | 18 |
-| Suprimento Inicial | 10.000 SURA |
-| Padrão | ERC-20 + Burnable + Permit |
+| Name | SURACoin |
+| Symbol | SURA |
+| Decimals | 18 |
+| Initial Supply | 10,000 SURA |
+| Standard | ERC-20 + Burnable + Permit |
 
-## 🔗 Deploy
+## 🔗 Deployment
 
-| Informação | Detalhes |
+| Information | Details |
 |------------|----------|
-| Rede | BNB Smart Chain Testnet |
-| Hash da Transação | `0xaA2bc8c41E8E702f32F3B5090712aFE479C029Dc` |
-| Bloco | 92826683 |
-| Verificação | ✅ [Sourcify](https://sourcify.dev) |
+| Network | BNB Smart Chain Testnet |
+| Transaction Hash | `0xaA2bc8c41E8E702f32F3B5090712aFE479C029Dc` |
+| Block | 92826683 |
+| Verification | ✅ [Sourcify](https://sourcify.dev) |
 
